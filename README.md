@@ -2,7 +2,7 @@
 
 ## **Instrucciones Importantes para ejecutar la Notebook**
 
-**Para evitar perder los outputs de las entrevistas simuladas, por favor no ejecutar todas las celdas de forma masiva. De todos modos, también se encuentran guardadas como logs en el repositorio de GitHub. Al final de la notebook hay una seccion de "implementación practica" para los docentes.** 
+**Para evitar perder los outputs de las entrevistas simuladas, por favor `no ejecutar todas las celdas de forma masiva`. De todos modos, también se encuentran guardadas como logs en el repositorio de GitHub. Al final de la notebook hay una seccion de "implementación practica" para los docentes.** 
 
 
 Esta notebook requiere una clave de API de OpenAI para funcionar. Para mantener su clave segura y no exponerla en el código, por favor seguir los siguientes pasos:
